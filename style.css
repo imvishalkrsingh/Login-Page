@@ -190,3 +190,13 @@
     color: #121212;
     border-bottom-color: #121212;
 }
+.sign p{
+    padding-left: 70px;
+    padding-top: 50px;
+}
+.sign a{
+    text-decoration: none;
+    color: blueviolet;
+    padding-left: 70px;
+    
+}
